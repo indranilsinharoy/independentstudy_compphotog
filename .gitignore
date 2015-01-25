@@ -2,6 +2,11 @@
 ####################
 
 
+# output files #
+################
+*.md
+*.html
+
 
 # packages #
 ############
@@ -10,3 +15,4 @@
 # directories #
 ###############
 .ipynb_checkpoints/
+Basic01_Ambiguity_function_files/
